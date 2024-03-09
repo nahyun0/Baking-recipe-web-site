@@ -1,2 +1,2 @@
 # Baking Recipe Web Site Project 
-1-2 web programming Term Project 
+web programming Term Project 
